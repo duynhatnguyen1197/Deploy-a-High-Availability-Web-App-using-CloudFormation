@@ -37,5 +37,4 @@ aws configure
 ```
 ./create.sh <cloudFormation_name> <.yaml file> <parameter.json file>
 ./update.sh <cloudFormation_name> <.yaml file> <parameter.json file>
-./create.sh <cloudFormation_name> <.yaml file> <parameter.json file>
 ```
